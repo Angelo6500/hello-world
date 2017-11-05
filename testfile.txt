@@ -1,5 +1,6 @@
 This is a test file for GitHub.
 !!!!!!!
 
-Hi ! 
+Ciao , il notebook ha crashato prima che potessi fare la mia prima push ; 
+
 
